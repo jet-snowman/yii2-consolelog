@@ -1,0 +1,25 @@
+{
+    "name": "jet-snowman/yii2-consolelog",
+    "description": "Extension provides functionality for console logger",
+    "type": "yii2-extension",
+    "version": "1.0.0",
+    "keywords": [
+        "yii2",
+        "extension"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jet-snowman",
+            "email": "jet-snegovik@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jetSnowman\\consoleLog\\": ""
+        }
+    }
+}
